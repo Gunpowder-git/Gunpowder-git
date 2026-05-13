@@ -71,12 +71,7 @@ I am building a stronger foundation in mathematics, physics, computer systems, a
 
 ## Contact / 联系方式
 
-<div align="center">
-  
-微信（Wechat）/QQ：1213956808
-
-</div>
-
+<div align="center">微信（Wechat）/QQ：1213956808</div>
 <p align="center">
   <a href="mailto:hejiale.ai@outlook.com"><img src="https://img.shields.io/badge/Email-hejiale.ai%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://space.bilibili.com/535607835"><img src="https://img.shields.io/badge/Bilibili-535607835-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
