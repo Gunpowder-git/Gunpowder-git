@@ -69,6 +69,20 @@ I am building a stronger foundation in mathematics, physics, computer systems, a
 
 我正在补强数理基础、计算机系统能力与工程工具链，同时将 AI 原型推进到交通、智慧校园、机器人与工程分析等可验证场景中。
 
+## Contact / 联系方式
+
+微信（Wechat）/QQ：1213956808
+<p align="center">
+  <a href="mailto:hejiale.ai@outlook.com"><img src="https://img.shields.io/badge/Email-hejiale.ai%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://space.bilibili.com/535607835"><img src="https://img.shields.io/badge/Bilibili-535607835-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+  <a href="https://x.com/GunpowderTwi"><img src="https://img.shields.io/badge/X-GunpowderTwi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.reddit.com/u/Gunpowderedd"><img src="https://img.shields.io/badge/Reddit-Gunpowderedd-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://www.instagram.com/gunpowderinst/"><img src="https://img.shields.io/badge/Instagram-gunpowderinst-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@Gunpowderytb"><img src="https://img.shields.io/badge/YouTube-Gunpowderytb-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61579197617564"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.luogu.com.cn/user/316855"><img src="https://img.shields.io/badge/Luogu-316855-0E90D2?style=for-the-badge" alt="Luogu" /></a>
+</p>
+
 <details>
 <summary>📊 GitHub Stats</summary>
 
