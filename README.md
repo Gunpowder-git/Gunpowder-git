@@ -1,7 +1,6 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=560&lines=Welcome+to+the+homepage+of;Engineering+Intelligence;" alt="Typing SVG" /></a>
-
 # 何嘉乐 He Jiale
 **Future Technology Program @ Guohao College, Tongji University**  
 **工程智能 | Engineering Intelligence**
