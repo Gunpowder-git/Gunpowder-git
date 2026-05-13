@@ -27,12 +27,14 @@
 
 I am a Future Technology student at **Guohao College, Tongji University**. My work focuses on **Engineering Intelligence**: integrating computer vision, time-series analysis, simulation, and deployable systems for recognition, prediction, and decision-making in real engineering contexts.
 
+
 ## Focus / 关注方向
 
 - **AI for Engineering Systems / 面向工程系统的 AI**: sensing, modeling, prediction, and decision support.
 - **Computer Vision & Multimodal Perception / 计算机视觉与多模态感知**: YOLO, OpenCV, MediaPipe, VLA-related prototypes.
 - **Digital Twin & Simulation / 数字孪生与仿真**: campus-scale scenarios, Blender / Unity / MATLAB workflows.
 - **Practical AI Deployment / AI 工程化落地**: Streamlit / Flask dashboards, SQL-backed systems, real-time pipelines.
+
 
 ## Selected Projects / 代表项目
 
@@ -43,6 +45,7 @@ I am a Future Technology student at **Guohao College, Tongji University**. My wo
 | **Multimodal Seat Pressure Analysis System**<br/>**驾驶室座椅压力时序分析系统** | Independent Developer<br/>独立开发 | Developed a time-series analysis tool for driver-seat pressure sensor data, supporting trend analysis, stability indicators and visualization for ergonomic studies.<br/>面向座椅压力传感器数据，完成时序分析、稳定性指标计算与可视化。 | `Python` `pandas` `NumPy` `matplotlib` |
 | **AI Safety Co-pilot**<br/>**驾驶员分心与疲劳状态智能监测** | Development Member<br/>开发组成员 | Worked on a dual-pipeline driver-safety prototype: in-cabin fatigue/distraction detection with facial landmarks, and out-of-cabin vehicle perception with lightweight object detection.<br/>参与“舱内监控 + 舱外感知”双路安全监测系统，支持实时并发处理与预警。 | `MediaPipe` `YOLOv8n` `OpenCV` `Python` |
 | **QDepth-VLA for Orchard Harvesting**<br/>**轻量级视觉模型赋能果园采摘** | Development Member<br/>开发组成员 | Explored RGB-only low-cost harvesting guidance by injecting monocular depth priors into a VLA-style model, with prototype validation in simulation and robotic settings.<br/>参与基于伪深度、深度 token 与 VLA 主干的低成本采摘引导原型。 | `VLA` `VQ-VAE` `Isaac Sim` `Robotics` |
+
 
 ## Skills / 技术栈
 
@@ -55,6 +58,7 @@ I am a Future Technology student at **Guohao College, Tongji University**. My wo
 **Simulation & Tools / 仿真与工具**: Blender, Unity, MATLAB, Git, Shell  
 **Programming / 编程**: Python, C/C++, HTML/CSS/JavaScript
 
+
 ## Selected Awards / 部分经历
 
 - NOIP 2022 Provincial First Prize / 全国青少年信息学奥赛 NOIP 2022 省一等奖
@@ -63,15 +67,22 @@ I am a Future Technology student at **Guohao College, Tongji University**. My wo
 - 2024 National High School Mathematics League Second Prize / 2024 全国高中数学联赛二等奖
 - Tongji Freshman Cybersecurity Competition Second Prize / 同济大学网络安全新生竞赛二等奖
 
+
 ## Current Direction / 近期目标
 
 I am building a stronger foundation in mathematics, physics, computer systems, and engineering tools, while turning AI prototypes into usable systems for transportation, smart campus, robotics and engineering analysis.
 
 我正在补强数理基础、计算机系统能力与工程工具链，同时将 AI 原型推进到交通、智慧校园、机器人与工程分析等可验证场景中。
 
+
 ## Contact / 联系方式
 
-<div align="center">微信（Wechat）/QQ：1213956808</div>
+<div align="center">
+  
+微信（Wechat）/QQ：1213956808
+
+</div>
+
 <p align="center">
   <a href="mailto:hejiale.ai@outlook.com"><img src="https://img.shields.io/badge/Email-hejiale.ai%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://space.bilibili.com/535607835"><img src="https://img.shields.io/badge/Bilibili-535607835-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
